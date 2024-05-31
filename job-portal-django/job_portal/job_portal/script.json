@@ -1,0 +1,28 @@
+{
+    "jobs": [
+      {
+        "id": 1,
+        "title": "Software Engineer (Frontend)",
+        "company": "Tech Solutions Inc.",
+        "location": "San Francisco, CA",
+        "description": "We are looking for a talented and passionate Frontend Engineer to join our growing team. You will be responsible for building and maintaining user interfaces for our web applications.",
+        "skills": ["React", "JavaScript", "HTML", "CSS"],
+        "employmentType": "Full-time",
+        "postedDate": "2024-05-31",
+        "url": "https://www.techsolutions.com/jobs/1"  
+      },
+      {
+        "id": 2,
+        "title": "Data Scientist",
+        "company": "Analytics Corp.",
+        "location": "Remote",
+        "description": "We are seeking a Data Scientist to analyze large datasets and develop predictive models. You will be responsible for working with various tools and technologies to extract insights and drive business decisions.",
+        "skills": ["Python", "SQL", "Machine Learning", "Statistics"],
+        "employmentType": "Full-time",
+        "postedDate": "2024-05-28",
+        "url": "https://www.analyticscorp.com/jobs/2"  
+      }
+    ]
+    
+      }
+    
